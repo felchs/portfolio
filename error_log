@@ -1,0 +1,30 @@
+[13-Jul-2024 18:37:13 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[13-Jul-2024 18:37:13 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[13-Jul-2024 18:37:13 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[13-Jul-2024 18:49:22 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[13-Jul-2024 18:49:22 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[13-Jul-2024 18:49:22 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[26-Oct-2024 00:50:12 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Oct-2024 00:50:12 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Oct-2024 00:50:12 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[26-Oct-2024 01:08:47 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Oct-2024 01:08:47 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Oct-2024 01:08:47 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[31-Oct-2024 02:59:42 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[31-Oct-2024 02:59:42 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[31-Oct-2024 02:59:42 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[31-Oct-2024 03:51:01 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[31-Oct-2024 03:51:01 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[31-Oct-2024 03:51:01 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[08-Apr-2025 06:15:33 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[08-Apr-2025 06:15:33 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[08-Apr-2025 06:15:33 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[08-Apr-2025 06:40:48 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[08-Apr-2025 06:40:48 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[08-Apr-2025 06:40:48 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[26-Jun-2025 09:07:53 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Jun-2025 09:07:53 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Jun-2025 09:07:53 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
+[26-Jun-2025 09:19:23 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Jun-2025 09:19:23 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/bs2dcii989sj/public_html/handler.php on line 11
+[26-Jun-2025 09:19:23 UTC] PHP Notice:  Undefined index: body in /home/bs2dcii989sj/public_html/handler.php on line 14
